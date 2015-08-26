@@ -10,5 +10,5 @@ github_username:  rodriguesfas
 # Build settings
 markdown: kramdown
 
-#
+# 
 exclude: ['package.json', 'src', 'node_modules']
